@@ -1,0 +1,5 @@
+{
+    "rclone_upload": "False",
+    "rclone_remote": "drive",
+    "delete_files": "False"
+}
