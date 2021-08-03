@@ -4,6 +4,9 @@ A python script to retag mkv files.
 
 # Setting Up
 
+- `pip install pyfiglet`
+- `pip install rich`
+
 Move the mkv files to **input** folder.
 
 Edit **config.json** (for uploading through rclone) [Optional]
