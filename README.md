@@ -38,7 +38,7 @@ optional arguments:
 
 Input and Output Value are **case-sensitive**.
 
-![](https://i.imgur.com/4527Yna.png)
+![](https://i.imgur.com/ZW5wbaK.png)
 
 #### Final Output is saved in **output** Folder
 
